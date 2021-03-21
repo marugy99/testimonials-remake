@@ -5,4 +5,4 @@
 
 🔗 [Live Site URL](https://marugy99.github.io/testimonials-remake/).
 
-![Site Screenshot](https://i.imgur.com/p8wq1Ei.png)
+![Site Screenshot](https://i.imgur.com/FEf8LVJ.png)
